@@ -1,0 +1,3 @@
+[28-Jul-2011 00:40:45] PHP Warning:  include(../templates/system.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/college/public_html/application/load.php on line 23
+[28-Jul-2011 00:40:45] PHP Warning:  include(../templates/system.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/college/public_html/application/load.php on line 23
+[28-Jul-2011 00:40:45] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '../templates/system.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/college/public_html/application/load.php on line 23
